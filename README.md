@@ -1,9 +1,9 @@
 # bearer-auth
 ### My work Links 
-* this is the pull request link [pull request](https://github.com/Muradazzeh/basic-auth/pull/1)
-* this is the link for action page from git hub [action page](https://github.com/Muradazzeh/basic-auth/actions)
-* this is the link for heroku web site [ herokulink](https://murad-basic-auth.herokuapp.com/)
-* this is the link for main repo [ repo link ](https://github.com/Muradazzeh/basic-auth)
+* this is the pull request link [pull request](https://github.com/Muradazzeh/bearer-auth/pull/1)
+* this is the link for action page from git hub [action page](https://github.com/Muradazzeh/bearer-auth/actions)
+* this is the link for heroku web site [ herokulink](https://bearer-auth-murad.herokuapp.com/)
+* this is the link for main repo [ repo link ](https://github.com/Muradazzeh/bearer-auth)
 
 ## Introduction 
 * Using a "Bearer Token" to re-authenticate with a server following a successful login, or obtaining/generating a permanent key
@@ -32,4 +32,21 @@
 
 * Finally I used generated token in Bearer Authentication to access the secret page 
 ![link](./src/image/secrit%20page%20with%20token.png)
+
+ * This all locally , and after that the GIthub and the Herokue test 
+ * I push the work to github and I checked the Action as shown 
+ ![link](./src/image/Screenshot%20(255).png)
+
+ * then I merge it to the nain branch and I deployed it to herokue , with the tests using post man 
+
+ ![link](./src/image/Screenshot%20(257).png)
+
+ ![link](./src/image/Screenshot%20(258).png)
+
+ ![link](./src/image/Screenshot%20(259).png)
+
+
+ * I reach the jest test part , I did only 5 tests , because I didnt use the starter code , so all the test they provided , nothing worked with me so until now I am trying to check how I will fix them , and the shown below tests only for the routes 
+ ![link](./src/image/Screenshot%20(260).png) 
+
 
